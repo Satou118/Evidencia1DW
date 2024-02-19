@@ -3,8 +3,9 @@
     background-color: cyan;
     font-size: larger;
     font-style: italic;
+    text-align: center;
 }
 
 p {
-    font-style: oblique;
+    font-style: normal;
 }
