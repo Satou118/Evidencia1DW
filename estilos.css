@@ -1,0 +1,10 @@
+.encabezados{
+    color:darkcyan;
+    background-color: cyan;
+    font-size: larger;
+    font-style: italic;
+}
+
+p {
+    font-style: oblique;
+}
