@@ -4,6 +4,85 @@
     border-color:cyan ;
 }
 
+h1 {
+    text-align: center;
+    border: 10px;
+    border-color:cyan ;
+}
+
 #colorletra{
     color:darkcyan
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #0e52a0;
+}
+
+header {
+    background-color: #063ca0;
+    color: #00f7ff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #001f85;
+    color: #27beec;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #00e1ff;
+    text-decoration: double;
+    margin: 0 10px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    background-color: #0011ff;
+    color: #02eeff;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+blockquote {
+    background-color: #002fff;
+    border-left: 10px solid #0025fa;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+
+dl {
+    margin-bottom: 10px;
+}
+dt {
+    font-weight: bold;
+}
+dd {
+    margin-left: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #0011ff;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #0ddbff;
 }
